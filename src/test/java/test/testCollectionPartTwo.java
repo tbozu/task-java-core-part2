@@ -5,7 +5,7 @@ import org.junit.Test;
 
 public class testCollectionPartTwo {
     CollectionPartTwo collectionPartTwo = new CollectionPartTwo();
-
+    //TODO tests for these funtion
     @Test
     public void checkIfElementsFromArrayPutOnList(){
         collectionPartTwo.convertFromArrayToList();
