@@ -21,7 +21,6 @@ public class testCollectionPartThree {
             Assert.assertNotEquals("submarine",it.next().equals("submarine"));
             Assert.assertNotEquals("yellow",it.next().equals("yellow"));
         }
-
     }
 
 
